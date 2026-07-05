@@ -1,7 +1,16 @@
 # Hi there 👋
 
-I'm Ali Hassan, a Software Engineering student at Galala University.
+I'm Ali Hassan, a Computer Science student at Galala University.
 
-💻 Interested in Software Engineering and Backend Development.
+## Technologies
+- Python
+- Django
+- MySQL
+- C++
+- SQL
+- Git & GitHub
 
-🚀 Currently building Django projects and strengthening my Computer Science fundamentals.
+## Currently Learning
+- Django REST Framework
+- Data Structures & Algorithms
+- Backend Development
